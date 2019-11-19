@@ -7,7 +7,7 @@ function testFunc() {
 
 function superbowlWin(array){
   array.find(function(el) {
-    if el === "W"
-    return el.year
+    if (el.result === "W"){
+    return el.year}
   })
 }
