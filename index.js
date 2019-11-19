@@ -14,3 +14,4 @@ function superbowlWin(array){
       return record.year
     }
   }
+}
