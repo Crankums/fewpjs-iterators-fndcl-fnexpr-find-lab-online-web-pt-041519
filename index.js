@@ -7,6 +7,6 @@ function testFunc() {
 
 function superbowlWin(array){
   array.find(function(el) {
-    
+
   })
 }
