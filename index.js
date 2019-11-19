@@ -12,5 +12,5 @@ function superbowlWin(array){
       } else {
         return record.year
       }
-  
+
 }
