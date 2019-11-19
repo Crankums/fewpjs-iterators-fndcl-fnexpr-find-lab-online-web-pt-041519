@@ -5,6 +5,6 @@ function testFunc() {
 }
 
 
-function superbowlWin(){
-
+function superbowlWin(array){
+  array.find(function(el) {return el === "W"})
 }
